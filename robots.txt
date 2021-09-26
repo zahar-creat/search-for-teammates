@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 60
+Host: anyplay.ru
+Disallow: /login.php
+Disallow: /signup.php
+Disallow: /forms.php
+Disallow: /profile.php
+Sitemap: http://https://anyplay.ru/sitemap.xml
+
